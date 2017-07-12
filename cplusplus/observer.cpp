@@ -3,7 +3,7 @@
  *
  *  Created on: Jul 30, 2016
  * 
- *  Author: niufan
+ *  Author: neil.niu
  */
 
 #include "observer.h"
